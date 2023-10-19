@@ -1,0 +1,23 @@
+{
+  "app_title": "تسجيل المهام",
+  "add_title": "اضف مهمة جديدة",
+  "addHint_title": "ادخل عنوان المهمة",
+  "addDesc_title": "ادخل وصف المهمة",
+  "selectDate": "اضفط هنا لاختيار تاريخ",
+  "addButton": "اضف",
+  "errorDate": "من فضلك اختر تاريخ",
+  "emptyField": "الصندوق فارغ",
+  "successful_add": "تم اضافة مهمتك بنجاح.",
+  "okButton": "حسنا",
+  "done": "تم !",
+  "editTask": "تعديل المهمة",
+  "saveButton": "حفظ التغيرات",
+  "deleteButton": "حذف",
+  "successful_delete" : "المهمة تم حذفها.",
+  "english": "الانجليزية",
+  "arabic" : "العربية",
+  "theme" : "النمط",
+  "language" : "اللغة",
+  "lightTheme": "النمط النهاري",
+  "darkTheme": "النمط الليلي"
+}

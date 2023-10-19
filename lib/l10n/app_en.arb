@@ -1,0 +1,23 @@
+{
+  "app_title": "TO DO",
+  "add_title": "Add new Task",
+  "addHint_title": "enter your task",
+  "addDesc_title": "enter your description",
+  "selectDate": "Tap Here to Select Date",
+  "addButton": "ADD",
+  "errorDate": "Please select a date",
+  "emptyField": "Invalid input",
+  "successful_add": "The Task has been successfully added.",
+  "okButton": "OK",
+  "done": "Done !",
+  "editTask": "Edit Task",
+  "saveButton": "Save Changes",
+  "deleteButton": "Delete",
+  "successful_delete" : "The Task has been deleted.",
+  "theme" : "Theme",
+  "language" : "Language",
+  "english": "English",
+  "arabic" : "Arabic",
+  "lightTheme": "Light Theme",
+  "darkTheme": "Dark Theme"
+}
